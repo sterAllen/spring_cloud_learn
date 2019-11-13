@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_cloud_feign_hystrix" />
+        <module name="zuul_demo_hystrix" />
+        <module name="eureka_config_client_git" />
+        <module name="spring_cloud_eureka_server" />
+        <module name="spring_cloud_config_client_git_refresh" />
+        <module name="spring_cloud_resttemplate_ribbon" />
+        <module name="zuul_self_filter" />
+        <module name="spring_cloud_config_server_git" />
+        <module name="spring_cloud_hystrix_dashborad_turbine" />
+        <module name="zuul_demo2" />
+        <module name="eureka_config_server_git" />
+        <module name="spring_cloud_resttemplate_hystrix_dashborad" />
+        <module name="spring_cloud_learn" />
+        <module name="spring_cloud_config_server" />
+        <module name="spring_cloud_config_client" />
+        <module name="spring_clound_eureka_producer_2" />
+        <module name="spring_cloud_eureka_client_2" />
+        <module name="spring_cloud_eureka_consumer" />
+        <module name="spring_cloud_eureka_three_server_3" />
+        <module name="spring_cloud_eureka_three_server_2" />
+        <module name="spring_cloud_zuul_simple_demo" />
+        <module name="eureka_config_server_git_2" />
+        <module name="spring_cloud_eureka_client" />
+        <module name="spring_cloud_eureka_three_server_1" />
+        <module name="spring_clound_eureka_producer" />
+        <module name="spring_cloud_bus" />
+        <module name="spring_cloud_resttemplate_hystrix" />
+        <module name="spring_cloud_config_client_git" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_cloud_euraka_three_server_1" target="1.8" />
+      <module name="spring_cloud_euraka_three_server_2" target="1.8" />
+      <module name="spring_cloud_eureka_config_server_git" target="1.8" />
+      <module name="spring_cloud_eureka_producer_2" target="1.8" />
+      <module name="spring_cloud_eureka_three_server" target="1.8" />
+      <module name="spring_cloud_hystrix" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eureka_config_client_git" options="-parameters" />
+      <module name="eureka_config_server_git" options="-parameters" />
+      <module name="eureka_config_server_git_2" options="-parameters" />
+      <module name="spring_cloud_bus" options="-parameters" />
+      <module name="spring_cloud_config_client" options="-parameters" />
+      <module name="spring_cloud_config_client_git" options="-parameters" />
+      <module name="spring_cloud_config_client_git_refresh" options="-parameters" />
+      <module name="spring_cloud_config_server" options="-parameters" />
+      <module name="spring_cloud_config_server_git" options="-parameters" />
+      <module name="spring_cloud_euraka_three_server_1" options="-parameters" />
+      <module name="spring_cloud_euraka_three_server_2" options="-parameters" />
+      <module name="spring_cloud_eureka_client" options="-parameters" />
+      <module name="spring_cloud_eureka_client_2" options="-parameters" />
+      <module name="spring_cloud_eureka_config_server_git" options="-parameters" />
+      <module name="spring_cloud_eureka_consumer" options="-parameters" />
+      <module name="spring_cloud_eureka_producer_2" options="-parameters" />
+      <module name="spring_cloud_eureka_server" options="-parameters" />
+      <module name="spring_cloud_eureka_three_server" options="-parameters" />
+      <module name="spring_cloud_eureka_three_server_1" options="-parameters" />
+      <module name="spring_cloud_eureka_three_server_2" options="-parameters" />
+      <module name="spring_cloud_eureka_three_server_3" options="-parameters" />
+      <module name="spring_cloud_feign_hystrix" options="-parameters" />
+      <module name="spring_cloud_hystrix" options="-parameters" />
+      <module name="spring_cloud_hystrix_dashborad_turbine" options="-parameters" />
+      <module name="spring_cloud_resttemplate_hystrix" options="-parameters" />
+      <module name="spring_cloud_resttemplate_hystrix_dashborad" options="-parameters" />
+      <module name="spring_cloud_resttemplate_ribbon" options="-parameters" />
+      <module name="spring_cloud_zuul_simple_demo" options="-parameters" />
+      <module name="spring_clound_eureka_producer" options="-parameters" />
+      <module name="spring_clound_eureka_producer_2" options="-parameters" />
+      <module name="zuul_demo2" options="-parameters" />
+      <module name="zuul_demo_hystrix" options="-parameters" />
+      <module name="zuul_self_filter" options="-parameters" />
+    </option>
+  </component>
+</project>

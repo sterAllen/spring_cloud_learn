@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_eureka_three_server_1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_eureka_three_server_2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_eureka_three_server_3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_eureka_client_2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_clound_eureka_producer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_eureka_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_clound_eureka_producer_2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_resttemplate_ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_resttemplate_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_feign_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_resttemplate_hystrix_dashborad/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_hystrix_dashborad_turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_server_git/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_client_git/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_client_git_refresh/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_config_server_git/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_config_client_git/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_config_server_git_2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_bus/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_zuul_simple_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul_demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul_self_filter/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul_demo_hystrix/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
